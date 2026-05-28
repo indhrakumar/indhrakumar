@@ -25,16 +25,16 @@
   <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://cdn.simpleicons.org/github/white"
+    srcset="https://cdn.simpleicons.org/github/black"
   />
   
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://cdn.simpleicons.org/github/black"
+    srcset="https://cdn.simpleicons.org/github/white"
   />
 
   <img 
-    src="https://cdn.simpleicons.org/github/black" 
+    src="https://cdn.simpleicons.org/github/white" 
     width="50"
   />
 </picture>
