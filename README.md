@@ -22,6 +22,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" style="filter: brightness(0) invert(1);"/>
+  <picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://cdn.simpleicons.org/github/white"
+  />
+  
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://cdn.simpleicons.org/github/black"
+  />
+
+  <img 
+    src="https://cdn.simpleicons.org/github/black" 
+    width="50"
+  />
+</picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 </p>
