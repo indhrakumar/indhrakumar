@@ -2,10 +2,16 @@
 
 *Passionate about learning frontend development, building projects, and improving through continuous practice while enjoying the process of coding.*
 
-# ***Skills and Tools I used to build Projects***
----
-### ***Frontend***
- <p align="left">
+## ***Skills and Tools I used to build Projects***
+
+
+***
+
+
+
+
+### <p align="center">***Frontend***</p>
+ <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
      &nbsp;&nbsp;
      &nbsp;&nbsp;
@@ -40,8 +46,13 @@
   </p>
 
 
-### ***Languages***
-  <p align="left">
+---
+
+
+
+
+### <p align="center">***Languages***</p>
+  <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
       &nbsp;&nbsp;
      &nbsp;&nbsp;
@@ -56,8 +67,10 @@
   </p>
 
 
-### ***Backend***
-  <p align="left">
+***
+
+### <p align="center">***Backend***</P>
+  <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
       &nbsp;&nbsp;
      &nbsp;&nbsp;
@@ -67,8 +80,10 @@
   </p>
 
 
-### ***Database***
-  <p align="left">
+***
+
+### <p align="center">***Database***</p>
+  <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
       &nbsp;&nbsp;
      &nbsp;&nbsp;
@@ -78,8 +93,10 @@
   </p>
 
 
-### ***Tools***
-  <p align="left">
+---
+
+### <p align="center">***Tools***</p>
+  <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
       &nbsp;&nbsp;
      &nbsp;&nbsp;
@@ -100,6 +117,7 @@
 
 
 ---
+***
 
 
 
