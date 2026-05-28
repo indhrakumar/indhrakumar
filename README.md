@@ -22,19 +22,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <picture>
+<picture>
+  <!-- Dark theme -->
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://cdn.simpleicons.org/github/black"
-  />
-  
-  <source 
-    media="(prefers-color-scheme: light)" 
     srcset="https://cdn.simpleicons.org/github/white"
   />
 
+  <!-- Light theme -->
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://cdn.simpleicons.org/github/black"
+  />
+
   <img 
-    src="https://cdn.simpleicons.org/github/white" 
+    src="https://cdn.simpleicons.org/github/black"
     width="50"
   />
 </picture>
